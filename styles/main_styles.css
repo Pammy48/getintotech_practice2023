@@ -4,3 +4,13 @@ body {
     background-color: beige;
     color: maroon;
 }
+
+p {
+    color: green;
+    font-size: 19px;
+}
+
+#copy {
+    color: black;
+    font-size: 10px;
+}
